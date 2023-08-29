@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <hr>
+ 
+<strong>Email Id<font size="3"color="red">*</font>&nbsp;&nbsp;&nbsp;&nbsp;:</strong><input type="text" name="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<strong>Password<font size="3"color="red">*</font>&nbsp;&nbsp;:</strong><input type="text" name="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<input type="button" value="Login" onclick="C:/Users/T460/Documents/Login.html">
+ </body>
+</html>
